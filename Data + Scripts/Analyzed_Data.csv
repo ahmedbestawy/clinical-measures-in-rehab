@@ -1,0 +1,21 @@
+patient_id,TUG_Cat,Gait_Cat,FRT_Risk,BBS_Risk
+P01,Fair mobility,community ambulator,Moderate risk,Low fall risk
+P02,Impaired mobility,Limited community ambulator,High risk,Medium fall risk
+P03,Normal mobility,community ambulator,Low risk,Low fall risk
+P04,High risk of fall,Household ambulator,High risk,High fall risk
+P05,Fair mobility,community ambulator,Low risk,Low fall risk
+P06,Fair mobility,Limited community ambulator,Moderate risk,Low fall risk
+P07,Normal mobility,community ambulator,Low risk,Low fall risk
+P08,Impaired mobility,Limited community ambulator,High risk,Medium fall risk
+P09,Fair mobility,community ambulator,Moderate risk,Low fall risk
+P10,Impaired mobility,Limited community ambulator,Moderate risk,Medium fall risk
+P11,Normal mobility,community ambulator,Low risk,Low fall risk
+P12,Fair mobility,Limited community ambulator,Moderate risk,Low fall risk
+P13,Fair mobility,community ambulator,Low risk,Low fall risk
+P14,High risk of fall,Household ambulator,High risk,High fall risk
+P15,Normal mobility,community ambulator,Low risk,Low fall risk
+P16,Fair mobility,Limited community ambulator,Moderate risk,Low fall risk
+P17,Fair mobility,community ambulator,Moderate risk,Low fall risk
+P18,Impaired mobility,Limited community ambulator,Moderate risk,Medium fall risk
+P19,Fair mobility,Limited community ambulator,Moderate risk,Medium fall risk
+P20,Normal mobility,community ambulator,Low risk,Low fall risk
